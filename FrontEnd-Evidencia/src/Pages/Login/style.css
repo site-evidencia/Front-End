@@ -1,0 +1,12 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  font-family: "Momo Trust Display", sans-serif;
+}
+
+body {
+  min-height: 100vh;
+  width: 100vw;
+  background: linear-gradient(180deg,rgba(242, 241, 243, 1) 90%, rgba(5, 147, 226, 1) 100%);
+}
